@@ -3,6 +3,7 @@
 A beautiful, lightweight, and modern desktop To-Do List application built entirely in Python using standard **Tkinter**. 
 
 Unlike standard, dated Tkinter interfaces that resemble 90s operating systems, this app utilizes custom color palettes, simulated padding, and flat UI elements to deliver a sleek, minimalist aesthetic natively on macOS, Windows, and Linux.
+
 ---
 
 ## Preview/Screenshot
